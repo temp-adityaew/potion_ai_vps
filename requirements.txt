@@ -1,0 +1,5 @@
+flask
+pillow
+opencv-python
+pybase64
+ultralytics
